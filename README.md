@@ -1,6 +1,6 @@
 👋 Hi, I’m Suraj!
 
-I am a Front End developer and I build things for the web.
+I am a Front End Engineer and I build things for the web.
 
 If you like my work, you can [buy me a coffee ☕](https://ko-fi.com/skv)
 
